@@ -44,42 +44,18 @@ This repository serves as:
 - A home for related assets: banners, demos, preview PDFs, illustrations, and more  
 
 ---
-
-## 📁 Project Files  
-Once uploaded, the repo will include:
-
-- `Skyys_Colorful_Kind_Heart_Cover.png` – Book cover  
-- `preview-pages/` – Sample pages (optional)  
-- `coloring-pages/` – Coloring sheet samples (optional)  
-- `banner/` – GitHub project banner (coming next)
-
-I can prepare these for you anytime.
-
----
-
-## 🚀 Future Enhancements  
-- Interactive Ink™ learning version  
-- Animated read-along video  
-- Coloring activity PDF  
-- Character stickers sheet  
-- Printable bookmarks  
-
----
-
-## 🦋 About Butterfly Perfect®  
+About Butterfly Perfect®  
 **Butterfly Perfect®** is a creative children’s brand built by **Lisa Frazier**, dedicated to uplifting kids through stories, confidence-building messages, learning tools, and diverse representation.
 
 Website: **https://www.lisayfrazier.com**
 
 ---
 
-## 👩‍💻 Author  
-**Lisa Frazier**  
+Author:Lisa Frazier 
 Software Engineer • Publisher • Children’s Book Author  
 Founder of Butterfly Perfect®
 
 ---
-
-## 🌈 License  
+License  
 Feel free to view my project, but redistribution of artwork or book content is not permitted.
 
