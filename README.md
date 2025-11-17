@@ -4,10 +4,7 @@
 
 
 
-https://github.com/lisayfrazier/skyy-colorful-kind-heart/blob/main/Screenshot%202025-10-01%20202929.png
----
-
-## 🌟 About the Book  
+# 🌟 About the Book  
 **Skyy’s Colorful Kind Heart** is a heartfelt children’s story created under the **Butterfly Perfect®** brand.  
 The book encourages children to show kindness, celebrate differences, include others, and treat everyone with love — no matter their race, background, or ability.
 
