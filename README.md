@@ -4,7 +4,7 @@
 
 
 
-# 🌟 About the Book  
+About the Book  
 **Skyy’s Colorful Kind Heart** is a heartfelt children’s story created under the **Butterfly Perfect®** brand.  
 The book encourages children to show kindness, celebrate differences, include others, and treat everyone with love — no matter their race, background, or ability.
 
@@ -12,17 +12,15 @@ Skyy, an imaginative little girl with a heart full of empathy, discovers that ki
 
 ---
 
-## 🧒 Meet the Characters  
+Meet the Characters  
+Skyy 
+A bright, thoughtful girl who loves helping others. She believes every person deserves kindness and respect, no matter of their race or disabilities
 
-### ⭐ **Skyy**  
-A bright, thoughtful girl who loves helping others. She believes every person deserves kindness and respect.
-
-### 🐶 **Perfect** (her puppy)  
+Perfect (her puppy)  
 Skyy’s loyal companion who joins her on every adventure — reminding readers that love and kindness aren’t just shown to people, but to animals too.
 
 ---
-
-## 🎨 Themes and Educational Value  
+Themes and Educational Value  
 This project promotes:
 
 - **Kindness and empathy**  
@@ -34,8 +32,7 @@ This project promotes:
 Perfect for ages **3–8**.
 
 ---
-
-## 🎯 Purpose of This GitHub Project  
+Purpose of This GitHub Project  
 This repository serves as:
 
 - A portfolio showcase of Lisa Frazier’s children’s literature work  
