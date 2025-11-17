@@ -45,6 +45,8 @@ About Butterfly Perfect®
 **Butterfly Perfect®** is a creative children’s brand built by **Lisa Frazier**, dedicated to uplifting kids through stories, confidence-building messages, learning tools, and diverse representation.
 
 Website: **https://www.lisayfrazier.com**
+
+---
 **https://www.amazon.com/stores/author/B0FT85RRT7?ccs_id=2730fa06-5abd-4a8f-a9ea-dd28a812bc0c**
 
 ---
