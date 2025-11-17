@@ -1,9 +1,8 @@
 # Skyy’s Colorful Kind Heart  
 *A Butterfly Perfect® Children’s Book Project*
+<img src="YOUR RAW URL HERE" width="400" alt="Skyy's Colorful Kind Heart Cover">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lisayfrazier/skyy-colorful-kind-heart/main/Skyys_Colorful_Kind_Heart_Cover.png" width="400" alt="Skyy's Colorful Kind Heart Cover"/>
-</div>
+
 https://github.com/lisayfrazier/skyy-colorful-kind-heart/blob/main/Screenshot%202025-10-01%20202929.png
 ---
 
