@@ -47,7 +47,7 @@ About Butterfly Perfect®
 Website: **https://www.lisayfrazier.com**
 
 ---
-**https://www.amazon.com/stores/author/B0FT85RRT7?ccs_id=2730fa06-5abd-4a8f-a9ea-dd28a812bc0c**
+AMAZON: **https://www.amazon.com/stores/author/B0FT85RRT7?ccs_id=2730fa06-5abd-4a8f-a9ea-dd28a812bc0c**
 
 ---
 
